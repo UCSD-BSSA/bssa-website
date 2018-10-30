@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://bssa.ucsd.edu/</loc>
+  <lastmod>2017-10-17T04:55:52+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://bssa.ucsd.edu/index.html</loc>
+  <lastmod>2017-10-17T04:55:52+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://bssa.ucsd.edu/event-calendar.html</loc>
+  <lastmod>2017-10-11T01:29:47+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://bssa.ucsd.edu/senior-stoles.html</loc>
+  <lastmod>2017-10-11T01:03:40+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://bssa.ucsd.edu/mentor-mentee-program.html</loc>
+  <lastmod>2017-10-11T01:03:40+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://bssa.ucsd.edu/membership.html</loc>
+  <lastmod>2017-10-12T04:22:39+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://bssa.ucsd.edu/committees.html</loc>
+  <lastmod>2017-10-12T03:56:51+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://bssa.ucsd.edu/2017-2018.html</loc>
+  <lastmod>2017-10-17T00:19:55+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://bssa.ucsd.edu/2016-2017.html</loc>
+  <lastmod>2017-10-16T00:18:57+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://bssa.ucsd.edu/2015-2016.html</loc>
+  <lastmod>2017-10-16T00:18:57+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://bssa.ucsd.edu/officers.html</loc>
+  <lastmod>2017-10-16T00:18:58+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+</urlset>
